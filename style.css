@@ -63,16 +63,16 @@ body{
 }
 
 .image__container .nav_buttons{
-  position: absolute;
-  height: 50px;
-  width: 100px;
-  right: 350px;
-  bottom: -15px;
-  display: flex;
-  background: white;
-  border-radius: 30px;
-  box-shadow: 1px 8px 10px rgba(0, 0, 0, 0.4);
-}
+    position: absolute;
+    height: 50px;
+    width: 100px;
+    right: 350px;
+    bottom: -15px;
+    display: flex;
+    background: white;
+    border-radius: 30px;
+    box-shadow: 1px 8px 10px rgba(0, 0, 0, 0.4);
+  }
 
 .nav_buttons .prev__button{
   background: url('./images/icon-prev.svg') no-repeat;
